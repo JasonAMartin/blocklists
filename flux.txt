@@ -2,3 +2,6 @@ js-agent.newrelic.com
 newrelic.com
 nr-data.net
 go-mpulse.net
+instagram.com
+myspace.com
+tiktok.com
