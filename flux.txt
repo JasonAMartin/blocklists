@@ -1,2 +1,2 @@
-https://js-agent.newrelic.com
-https://*.newrelic.com
+js-agent.newrelic.com
+newrelic.com
