@@ -1,2 +1,4 @@
 js-agent.newrelic.com
 newrelic.com
+nr-data.net
+go-mpulse.net
